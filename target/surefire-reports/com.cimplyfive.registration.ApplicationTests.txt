@@ -1,7 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.cimplyfive.registration.ApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.414 s <<< FAILURE! - in com.cimplyfive.registration.ApplicationTests
-initializationError(com.cimplyfive.registration.ApplicationTests)  Time elapsed: 0.007 s  <<< ERROR!
-java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
-

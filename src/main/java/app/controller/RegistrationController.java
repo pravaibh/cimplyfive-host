@@ -22,7 +22,7 @@ public class RegistrationController {
 		this.service = service;
 	}
 //	@RequestMapping(value = "/", method = RequestMethod.POST, consumes = "application/json", produces = "application/json")
-    @CrossOrigin(origins = "http://localhost:4200")
+    @CrossOrigin(origins = "http://ec2-54-89-207-214.compute-1.amazonaws.com:4200")
 	@PostMapping
 	public RegistrationResponseDTO registerNewUser(@RequestBody UserDTO dto) {
 		
