@@ -1,0 +1,11 @@
+app/assembler/UserAssembler.class
+app/document/UserDTO.class
+constants/RegistrationMessageConstants.class
+app/document/RegistrationResponseDTO.class
+app/repository/NoSqlRepository.class
+app/document/User.class
+app/helper/MailingHelper.class
+app/Application.class
+app/service/RegistrationService.class
+app/controller/RegistrationController.class
+app/service/MailingService.class
